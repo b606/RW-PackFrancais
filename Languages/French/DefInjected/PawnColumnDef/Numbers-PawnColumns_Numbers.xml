@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- things you won't find here: dynamically generated columns such as needs, skills, records, capacities, etc -->
+
+  <Numbers_Age.label>Âge</Numbers_Age.label>
+  <Numbers_Age.headerTip>Âge biologique</Numbers_Age.headerTip>
+  <Numbers_AnimalEggProgress.label>Ponte des œufs</Numbers_AnimalEggProgress.label>
+  <Numbers_AnimalEggProgress.headerTip>Progression des œufs</Numbers_AnimalEggProgress.headerTip>
+  <Numbers_Milkfullness.label>Montée de lait</Numbers_Milkfullness.label>
+  <Numbers_Milkfullness.headerTip>Montée de lait</Numbers_Milkfullness.headerTip>
+  <Numbers_AnimalWoolGrowth.label>Croissance de la laine</Numbers_AnimalWoolGrowth.label>
+  <Numbers_AnimalWoolGrowth.headerTip>Croissance de la laine</Numbers_AnimalWoolGrowth.headerTip>
+  <Numbers_Race.label>Race</Numbers_Race.label>
+  <Numbers_Race.headerTip>Race</Numbers_Race.headerTip>
+  <Numbers_Backstory.label>Historique</Numbers_Backstory.label>
+  <Numbers_Backstory.headerTip>Historique</Numbers_Backstory.headerTip>
+  <Numbers_Equipment.label>Équipement</Numbers_Equipment.label>
+  <Numbers_Equipment.headerTip>Équipement</Numbers_Equipment.headerTip>
+  <Numbers_Inventory.label>Inventaire</Numbers_Inventory.label>
+  <Numbers_Inventory.headerTip>Inventaire</Numbers_Inventory.headerTip>
+  <Numbers_JobCurrent.label>Tâche en cours</Numbers_JobCurrent.label>
+  <Numbers_JobCurrent.headerTip>Tâche en cours</Numbers_JobCurrent.headerTip>
+  <Numbers_JobQueued.label>Tâche en attente</Numbers_JobQueued.label>
+  <Numbers_JobQueued.headerTip>Tâche en attente</Numbers_JobQueued.headerTip>
+  <Numbers_MentalState.label>État mental</Numbers_MentalState.label>
+  <Numbers_MentalState.headerTip>État mental</Numbers_MentalState.headerTip>
+  <Numbers_PrisonerInteraction.label>Interaction prisonnier</Numbers_PrisonerInteraction.label>
+  <Numbers_PrisonerInteraction.headerTip>Interaction avec le prisonnier</Numbers_PrisonerInteraction.headerTip>
+  <Numbers_PrisonerRecruitmentDifficulty.label>Difficulté de recrutement</Numbers_PrisonerRecruitmentDifficulty.label>
+  <Numbers_PrisonerRecruitmentDifficulty.headerTip>Difficulté de recrutement</Numbers_PrisonerRecruitmentDifficulty.headerTip>
+  <Numbers_PrisonerResistance.label>Résistance restante</Numbers_PrisonerResistance.label>
+  <Numbers_PrisonerResistance.headerTip>Résistance au recrutement restante</Numbers_PrisonerResistance.headerTip>
+  <Numbers_Pain.label>Douleur</Numbers_Pain.label>
+  <Numbers_Pain.headerTip>Niveau de douleur</Numbers_Pain.headerTip>
+  <Numbers_Bleedrate.label>Niveau d'hémorragie</Numbers_Bleedrate.label>
+  <Numbers_Bleedrate.headerTip>Niveau d'hémorragie</Numbers_Bleedrate.headerTip>
+  <Numbers_NeedsTreatment.label>Besoin de soins</Numbers_NeedsTreatment.label>
+  <Numbers_NeedsTreatment.headerTip>Besoin de soins</Numbers_NeedsTreatment.headerTip>
+  <Numbers_Operations.label>Opérations</Numbers_Operations.label>
+  <Numbers_Operations.headerTip>Opérations médicales</Numbers_Operations.headerTip>
+  <Numbers_Forbidden.label>Interdit</Numbers_Forbidden.label>
+  <Numbers_Forbidden.headerTip>Interdit - vos colons n'interagiront pas avec ceci.</Numbers_Forbidden.headerTip>
+  <Numbers_Inspiration.label>Inspiration</Numbers_Inspiration.label>
+  <Numbers_Inspiration.headerTip>Inspiration</Numbers_Inspiration.headerTip>
+  <Numbers_DiseaseProgress.label>Marge de l'immunité sur la maladie</Numbers_DiseaseProgress.label>
+  <Numbers_DiseaseProgress.headerTip>Marge de l'immunité sur la maladie</Numbers_DiseaseProgress.headerTip>
+  <Numbers_ManhunterOnTameFailChance.headerTip>Vengeance - apprivoisement ratée</Numbers_ManhunterOnTameFailChance.headerTip>
+  <Numbers_Wildness.label>Sauvagerie</Numbers_Wildness.label>
+  <Numbers_Wildness.headerTip>Plus la créature a un caractère sauvage, plus il sera difficile de l'apprivoiser, entraîner, et domestiquer.</Numbers_Wildness.headerTip>
+  <Numbers_TameChance.label>Chances d'apprivoiser</Numbers_TameChance.label>
+  <Numbers_TameChance.headerTip>Chances d'apprivoiser</Numbers_TameChance.headerTip>
+  <Numbers_SelfTend.headerTip>Auto-soin</Numbers_SelfTend.headerTip>
+  <Numbers_HediffList.headerTip>Maladies</Numbers_HediffList.headerTip>
+  <Numbers_Faction.label>Faction</Numbers_Faction.label>
+  <Numbers_Faction.headerTip>La faction à laquelle appartient actuellement le personnage.</Numbers_Faction.headerTip>
+  <Numbers_AnimalFilthRate.label>Saleté de l'animal</Numbers_AnimalFilthRate.label>
+  <Numbers_AnimalFilthRate.headerTip>Cet indicateur représente la saleté moyenne produite par cet animal.</Numbers_AnimalFilthRate.headerTip>
+  <Numbers_Meditation.label>Méditation</Numbers_Meditation.label>
+  <Numbers_Meditation.headerTip>Chaque personnage peut méditer sur différents types d'objets.</Numbers_Meditation.headerTip>
+
+</LanguageData>

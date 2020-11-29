@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: You can dismiss letters by right-clicking on them. -->
+  <GameplayTips.DismissLetters>Vous pouvez effacer des notifications en cliquant dessus avec le bouton droit.</GameplayTips.DismissLetters>
+  <!-- EN: You can hold the shift key to queue orders on your colonists. -->
+  <GameplayTips.QueueOrders>Vous pouvez maintenir la touche Maj enfoncée pour donner une série d'ordres à vos colons.</GameplayTips.QueueOrders>
+  <!-- EN: You can right-click and drag to reorder colonists on the colonist bar. -->
+  <GameplayTips.ReorderColonistbar>Vous pouvez cliquer avec le bouton droit et faire glisser leurs symboles pour réorganiser la barre des colons.</GameplayTips.ReorderColonistbar>
+  <!-- EN: You can select previous/next colonist with the , and . keys. -->
+  <GameplayTips.SelectPrevNextColonist>Vous pouvez sélectionner le colon précédent ou suivant avec les touches "," et "." .</GameplayTips.SelectPrevNextColonist>
+  <!-- EN: Many menus allow you to click and drag a setting to 'paint' it over many entries. This even works for things like outfits or food restrictions. -->
+  <GameplayTips.SettingPainting>De nombreux menus vous permettent de cliquer et de faire glisser un paramètre pour le "peindre" sur de nombreuses entrées. Cela fonctionne même pour des choses comme les vêtements ou les restrictions alimentaires.</GameplayTips.SettingPainting>
+  <!-- EN: In the work tab's manual priorities mode, 1 is first priority, while 4 is last priority. -->
+  <GameplayTips.ManualPriorities>Dans le mode Priorités manuelles de l'onglet de travail, 1 est la première priorité, tandis que 4 est la dernière priorité.</GameplayTips.ManualPriorities>
+  <!-- EN: Each colonists' mood is displayed in the background of their icon in the colonist bar at the top of the screen. -->
+  <GameplayTips.ColonistMood>L'humeur des personnages est affichée en arrière-plan de leur icône dans la barre des colons en haut de l'écran.</GameplayTips.ColonistMood>
+  <!-- EN: Shift-clicking the name of a work type in the Work tab changes settings for all colonists at once. -->
+  <GameplayTips.WorkTabChangeAllColonists>Un Maj-clic sur le nom d'un type de travail dans l'onglet Travail modifie les paramètres pour tous les colons à la fois.</GameplayTips.WorkTabChangeAllColonists>
+  <!-- EN: Right-clicking a number in the Work tab using manual priorities will reduce the priority instead of increasing it. -->
+  <GameplayTips.WorkTabDecreasePriority>Un clic droit sur un chiffre dans l'onglet Travail en mode Priorités manuelles réduira le chiffre au lieu de l'augmenter.</GameplayTips.WorkTabDecreasePriority>
+  <!-- EN: In a gunfight, always be behind cover! -->
+  <GameplayTips.GunfightCover>Lors d'une fusillade, soyez toujours à couvert !</GameplayTips.GunfightCover>
+  <!-- EN: In a gunfight, spread your colonists out! Bunched-up targets are easy to hit. -->
+  <GameplayTips.GunfightSpread>Dans une fusillade, dispersez vos colons ! Les cibles groupées sont faciles à atteindre.</GameplayTips.GunfightSpread>
+  <!-- EN: Smoke totally prevents turrets from detecting targets, but people can still shoot with reduced accuracy. -->
+  <GameplayTips.ShootingAccuracySmoke>La fumée empêche totalement les tourelles de détecter des cibles, mais les individus peuvent toujours tirer avec une précision réduite.</GameplayTips.ShootingAccuracySmoke>
+  <!-- EN: When designing defences, assume enemies will get inside using drop pods or tunnels. Build internal defensive positions. -->
+  <GameplayTips.DesignDefenses>Lors de la conception des défenses, supposez que les ennemis pénètreront à l'intérieur de votre base à l'aide de nacelles ou de tunnels. Construisez des positions défensives internes.</GameplayTips.DesignDefenses>
+  <!-- EN: Foggy or rainy weather reduces the accuracy of ranged weapons. -->
+  <GameplayTips.ShootingAccuracyFogRain>Le temps brumeux ou pluvieux réduit la précision des armes à distance.</GameplayTips.ShootingAccuracyFogRain>
+  <!-- EN: You can analyze the chance a shot will hit by selecting the shooter and placing the mouse over the target. -->
+  <GameplayTips.ShootingTooltip>Vous pouvez analyser les chances de réussite d'un tir en sélectionnant le tireur et en plaçant la souris sur la cible.</GameplayTips.ShootingTooltip>
+  <!-- EN: Turrets explode when they take a lot of damage. Don't put them too close together, and don't put your people too close to them. -->
+  <GameplayTips.TurretsExplode>Les tourelles explosent quand elles subissent beaucoup trop de dégâts. Ne les rapprochez pas trop et gardez en éloignés vos colons.</GameplayTips.TurretsExplode>
+  <!-- EN: Some animals explode upon death. You can use transport pods to drop animals on enemies. Think about it. -->
+  <GameplayTips.AnimalDeathExplosion>Certains animaux explosent à leur mort. Vous pouvez utiliser des nacelles de transport pour faire tomber des animaux sur les ennemis. Pensez-y !</GameplayTips.AnimalDeathExplosion>
+  <!-- EN: If you need help in a fight, call your allies using the comms console. -->
+  <GameplayTips.CallAllies>Si vous avez besoin d'aide dans un combat, appelez vos alliés à l'aide de la console de communication.</GameplayTips.CallAllies>
+  <!-- EN: Maddened animals will attack any human, including your enemies. You can use this. -->
+  <GameplayTips.MaddenedAnimals>Les animaux enragés attaqueront n'importe quel humain, y compris vos ennemis. Vous pouvez en profiter.</GameplayTips.MaddenedAnimals>
+  <!-- EN: EMP bursts will temporarily disable turrets and shields. -->
+  <GameplayTips.EMPDisablesTurretsShields>Les explosions IEM désactiveront temporairement les tourelles et les boucliers.</GameplayTips.EMPDisablesTurretsShields>
+  <!-- EN: EMP bursts instantly break personal shields. -->
+  <GameplayTips.EMPDisablesPersonalShields>Les explosions IEM brisent instantanément les boucliers individuels.</GameplayTips.EMPDisablesPersonalShields>
+  <!-- EN: The hunter stealth stat reduces the chance of animal attacks. It is affected by the hunter's animals and shooting skills. -->
+  <GameplayTips.HunterStealth>La statistique chasse furtive réduit les risques d'attaques d'animaux. Elle est affectée par la compétence en tir et en soin aux animaux du chasseur.</GameplayTips.HunterStealth>
+  <!-- EN: Animals are more likely to attack when harmed from close range. Long-range, slow-firing weapons are safest for hunting. -->
+  <GameplayTips.AnimalsAttackCloseRange>Les animaux sont plus susceptibles d'attaquer lorsqu'ils sont blessés de près. Les armes à longue portée et au tir lent sont les plus sûres pour la chasse.</GameplayTips.AnimalsAttackCloseRange>
+  <!-- EN: Entire herds of animals may attack you when you try to hunt them. Accept the risk before hunting, or choose weaker prey. -->
+  <GameplayTips.AnimalsMayAttack>Des troupeaux entiers d'animaux peuvent vous attaquer lorsque vous essayez de les chasser. Acceptez le risque avant de chasser ou choisissez des proies plus faibles.</GameplayTips.AnimalsMayAttack>
+  <!-- EN: If you hunt boomrats and boomalopes when it's raining, their deaths won't cause forest fires. -->
+  <GameplayTips.AnimalDeathExplosionRain>Si vous chassez des rataboums et des boomalopes quand il pleut, leur mort ne provoquera pas d'incendies de forêt.</GameplayTips.AnimalDeathExplosionRain>
+  <!-- EN: Carefully-slaughtered animals yield more meat and leather than those who were killed violently. -->
+  <GameplayTips.GreaterSlaughterYield>Les animaux soigneusement abattus donnent plus de viande et de cuir que ceux qui ont été tués violemment.</GameplayTips.GreaterSlaughterYield>
+  <!-- EN: Place a caravan packing spot to designate where you want your caravans to form up. -->
+  <GameplayTips.CaravanPackingSpot>Placez une zone de chargement de caravane pour indiquer où vous souhaitez que vos caravanes se forment.</GameplayTips.CaravanPackingSpot>
+  <!-- EN: Single-person caravans can be very useful in certain situations. -->
+  <GameplayTips.CaravanSinglePerson>Les caravanes d'une seule personne peuvent être très utiles dans certaines situations.</GameplayTips.CaravanSinglePerson>
+  <!-- EN: Faster animals make faster caravans. -->
+  <GameplayTips.CaravanFasterAnimals>Des animaux plus rapides font des caravanes plus rapides.</GameplayTips.CaravanFasterAnimals>
+  <!-- EN: Smaller caravans will be attacked less often because they're less visible. -->
+  <GameplayTips.CaravanSmallerLessVisible>Les petites caravanes seront attaquées moins souvent car elles sont moins visibles.</GameplayTips.CaravanSmallerLessVisible>
+  <!-- EN: Before forming a caravan, collect the items you want to send in a stockpile near your caravan packing spot. This will make packing much faster. -->
+  <GameplayTips.CaravanStockpileNearPackingSpot>Avant de former une caravane, stockez les articles que vous souhaitez envoyer dans un lieu près de votre zone de chargement de caravane. Cela rendra sa préparation beaucoup plus rapide.</GameplayTips.CaravanStockpileNearPackingSpot>
+  <!-- EN: If you have untrained animals in your caravan, you can split them into a separate caravan before attacking an enemy, to keep them out of the fight. -->
+  <GameplayTips.CaravanUntrainedAnimals>Si vous avez des animaux non entraînés dans votre caravane, vous pouvez les séparer en une caravane distincte avant d'attaquer l'ennemi, afin de les garder loin du combat.</GameplayTips.CaravanUntrainedAnimals>
+  <!-- EN: RimWorld is a story generator, not a skill test. A ruined colony is a dramatic tragedy, not a failure. -->
+  <GameplayTips.StoryGenerator>RimWorld est un générateur d'histoire, pas un test de compétence. Une colonie en ruine est une tragédie dramatique, pas un échec.</GameplayTips.StoryGenerator>
+  <!-- EN: Some colonists are worse than useless. Bad allies are part of the challenge. -->
+  <GameplayTips.BadAllies>Certains colons sont pires qu'inutiles. Les mauvais alliés font partie du défi.</GameplayTips.BadAllies>
+  <!-- EN: If you can't defend against a threat, make a caravan and run. You may lose your home, but your story can continue. -->
+  <GameplayTips.MakeCaravanRunBeforeDefeat>Si vous ne pouvez pas vous défendre contre une menace, faites une caravane et fuyez. Vous risquez de perdre votre maison, mais votre histoire peut continuer.</GameplayTips.MakeCaravanRunBeforeDefeat>
+  <!-- EN: Avoid using stone for doors. They open very slowly, which wastes your colonists' time. -->
+  <GameplayTips.StoneDoors>Évitez d'utiliser de la pierre pour les portes. Elles s'ouvrent très lentement, ce qui fait perdre du temps à vos colons.</GameplayTips.StoneDoors>
+  <!-- EN: Put chairs in front of workbenches so workers can sit comfortably while working. -->
+  <GameplayTips.ChairsWorkbench>Placez des chaises devant les établis afin que vos travailleurs puissent s'asseoir confortablement tout en travaillant.</GameplayTips.ChairsWorkbench>
+  <!-- EN: Mechanical structures break down and require replacement components. Don't build things you don't need. -->
+  <GameplayTips.MechanicalBreakdown>Les structures mécaniques se dégradent et nécessitent des composants de remplacement. Ne construisez pas des choses dont vous n'avez pas l'utilité.</GameplayTips.MechanicalBreakdown>
+  <!-- EN: Be careful what you construct on bridges. Bridges collapse easily under explosions, and your buildings will go with them. -->
+  <GameplayTips.CarefulConstructionOnBridges>Faites attention lorsque vous construisez sur les ponts. Les ponts s'effondrent facilement sous le coup des explosions, et vos bâtiments s'écrouleront avec eux.</GameplayTips.CarefulConstructionOnBridges>
+  <!-- EN: Clean rooms increase research speed, improve medical outcomes, and reduce food poisoning. Sterile tiles make rooms extra-clean. -->
+  <GameplayTips.CleanRooms>Les salles propres augmentent la vitesse de recherche, améliorent les résultats médicaux et réduisent l'intoxication alimentaire. Les carrelages stériles rendent les pièces extrêmement propres.</GameplayTips.CleanRooms>
+  <!-- EN: Building your whole colony in one structure saves resources, but also makes it difficult to contain fires. -->
+  <GameplayTips.ColonyOneStructure>Construire la totalité de votre colonie au sein d'une seule structure permet d'économiser des ressources, mais rend également difficile la lutte contre les incendies.</GameplayTips.ColonyOneStructure>
+  <!-- EN: Terrain affects movement speed. Build floors to help your colonists get around quicker. -->
+  <GameplayTips.TerrainMovementSpeed>Le terrain affecte la vitesse de déplacement. Construisez des sols pour aider vos colons à se déplacer plus rapidement.</GameplayTips.TerrainMovementSpeed>
+  <!-- EN: Different terrain has different inherent cleanliness levels. Tiles are inherently clean; dirt is inherently dirty. -->
+  <GameplayTips.TerrainCleanliness>Différents types de sol ont différents niveaux de propreté inhérents. Les carrelages sont intrinsèquement propres; la terre ou la boue est intrinsèquement sale.</GameplayTips.TerrainCleanliness>
+  <!-- EN: You can give prisoners as gifts. Giving a prisoner back to his own faction will be highly appreciated. -->
+  <GameplayTips.PrisonersAsGifts>Vous pouvez offrir des prisonniers en cadeau. Rendre un prisonnier à sa propre faction sera très apprécié.</GameplayTips.PrisonersAsGifts>
+  <!-- EN: You can request specific types of trade caravans using the comms console. -->
+  <GameplayTips.RequestTradeCaravans>Vous pouvez demander des caravanes commerciales de types spécifiques à l'aide de la console de communication.</GameplayTips.RequestTradeCaravans>
+  <!-- EN: You can use transport pods to send gifts directly to other factions' bases - even your enemies. This improves faction relations. -->
+  <GameplayTips.TransportPodsSendGift>Vous pouvez utiliser des nacelles de transport pour envoyer directement des cadeaux aux bases des autres factions, même à vos ennemis. Cela améliore les relations entre les factions.</GameplayTips.TransportPodsSendGift>
+  <!-- EN: Keeping prisoners together saves space. However, prisoners kept together will try to break out together. -->
+  <GameplayTips.KeepingPrisonersTogether>Garder les prisonniers ensemble permet d'économiser de l'espace. Cependant, les prisonniers maintenus ensemble tenteront de s'évader ensemble.</GameplayTips.KeepingPrisonersTogether>
+  <!-- EN: Enemy faction bases are very well-defended. You don't need to attack them - but be well-prepared if you choose to try. -->
+  <GameplayTips.EnemyFactionBaseDefenses>Les bases des factions ennemies sont très bien défendues. Vous n'avez pas besoin de les attaquer mais soyez bien préparé si vous choisissez d'essayer.</GameplayTips.EnemyFactionBaseDefenses>
+  <!-- EN: Cute tame animals will nuzzle your colonists, improving their mood. -->
+  <GameplayTips.AnimalNuzzle>Les animaux apprivoisés les plus mignons plairont à vos colons, améliorant leur humeur.</GameplayTips.AnimalNuzzle>
+  <!-- EN: Assign your herbivorous animals to areas with lots of grass. They'll eat the grass and spare you the need to feed them. -->
+  <GameplayTips.AnimalHerbivorousGrassArea>Affectez vos animaux herbivores à des zones herbeuses. Ils mangeront de l'herbe et vous épargneront le besoin de les nourrir.</GameplayTips.AnimalHerbivorousGrassArea>
+  <!-- EN: If someone has a serious infection in a limb, you can remove the limb to save their life. -->
+  <GameplayTips.RemoveLimbInfection>Si quelqu'un a une infection grave dans un membre, vous pouvez amputer le membre pour lui sauver la vie.</GameplayTips.RemoveLimbInfection>
+  <!-- EN: Sloshing through water makes people unhappy. Build a bridge when you can. -->
+  <GameplayTips.SloshingWater>Traverser dans l'eau rend les gens malheureux. Construisez un pont quand vous le pouvez.</GameplayTips.SloshingWater>
+  <!-- EN: Luciferium can heal scars - even those on the eye or brain. It is, however, a permanent commitment. -->
+  <GameplayTips.Luciferium>Le luciferium peut guérir les cicatrices, même celles à un œil ou au cerveau. Il s'agit cependant d'un engagement permanent à consommer ce produit.</GameplayTips.Luciferium>
+  <!-- EN: Work and movement speed are affected by lighting. Everything is slower in the dark. -->
+  <GameplayTips.WorkMovementSpeedLighting>La vitesse de travail et de déplacement est affectée par l'éclairage. Tout est plus lent dans l'obscurité.</GameplayTips.WorkMovementSpeedLighting>
+  <!-- EN: Deep underground caverns have a naturally stable temperature, even if it's very hot or cold outside. -->
+  <GameplayTips.DeepCavesTemperature>Les profondes cavernes souterraines ont une température naturellement stable, même s'il fait très chaud ou froid à l'extérieur.</GameplayTips.DeepCavesTemperature>
+  <!-- EN: Mountain bases are easy to defend. The downside is that people go crazy spending too long underground. And giant insects. -->
+  <GameplayTips.MountainBases>Les bases souterraines sont faciles à défendre. L'inconvénient est que les gens deviennent fous en passant trop de temps sous terre. Et il y a des insectes géants.</GameplayTips.MountainBases>
+  <!-- EN: Prisoners will join much quicker and attempt fewer breakouts when they're in a good mood. -->
+  <GameplayTips.PrisonersGoodMood>Les prisonniers se rallieront beaucoup plus rapidement et tenteront moins d'évasions s'ils sont de bonne humeur.</GameplayTips.PrisonersGoodMood>
+  <!-- EN: You can have multiple researchers working simultaneously at multiple research tables. -->
+  <GameplayTips.MultipleResearchers>Plusieurs chercheurs peuvent travailler simultanément sur plusieurs postes de recherche.</GameplayTips.MultipleResearchers>
+  <!-- EN: Geysers heat up rooms if enclosed. This can be dangerous, or useful. -->
+  <GameplayTips.GeysersHeatRooms>Les geysers réchauffent les pièces s'ils sont à l'intérieur. Cela peut être dangereux, ou utile.</GameplayTips.GeysersHeatRooms>
+  <!-- EN: Explosions extinguish fires in their blast radius. This makes artillery shells useful for stopping fires when there is no other choice. -->
+  <GameplayTips.ExtinguishFireArtillery>Les explosions éteignent le feu dans leur rayon d'explosion. Cela rend les obus d'artillerie utiles pour arrêter les incendies lorsqu'il n'y a pas d'autre choix.</GameplayTips.ExtinguishFireArtillery>
+  <!-- EN: Even serious setbacks don't mean the game has to end. Try playing out a lost battle - often the best stories come from the darkest situations. -->
+  <GameplayTips.BestStoriesFromDarkestSituations>Même de sérieux revers ne signifient pas la fin de la partie. Essayez de jouer une bataille perdue, souvent les meilleures histoires viennent des situations les plus sombres.</GameplayTips.BestStoriesFromDarkestSituations>
+  <!-- EN: Clean labs with sterile tile give research speed bonuses. -->
+  <GameplayTips.CleanLabs>Un laboratoire propre avec un sol stérile augmente la vitesse de recherche.</GameplayTips.CleanLabs>
+  <!-- EN: You can change storyteller and playstyle at any time through the options menu. -->
+  <GameplayTips.ChangeStoryteller>Vous pouvez changer le narrateur et le style de jeu à tout moment via le menu Options.</GameplayTips.ChangeStoryteller>
+  <!-- EN: The more factions you are allied with, the more random traders and military aid you will receive. -->
+  <GameplayTips.MoreAlliesMoreTraders>Plus vous êtes allié avec des factions, plus vous aurez de chance de recevoir au hasard de l'aide militaire et des commerçants.</GameplayTips.MoreAlliesMoreTraders>
+  <!-- EN: You can use drug policies to have your fighters carry combat drugs like go-juice. A quick dose at the start of combat can win the battle. -->
+  <GameplayTips.CombatDrugsFromInventory>Vous pouvez paramétrer les règles sur la drogue pour que vos soldats transportent des drogues de combat comme du Go-Juice. Une dose rapide au début du combat peut permettre de gagner la bataille.</GameplayTips.CombatDrugsFromInventory>
+  <!-- EN: Set schedules with long stretches of one activity to minimize travel time. -->
+  <GameplayTips.SchedulesSetLong>Pour minimiser les temps de déplacement, définissez des horaires avec de longues périodes d'une même activité.</GameplayTips.SchedulesSetLong>
+  
+</LanguageData>

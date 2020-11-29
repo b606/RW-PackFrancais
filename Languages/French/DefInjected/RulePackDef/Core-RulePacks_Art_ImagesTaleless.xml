@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>image->a solitary [Character] [desc_pawn]</li>
+    <li>image->a solitary [Character] [desc_pawn] near a [TerrainFeature]</li>
+    <li>image->a solitary [Character] [desc_pawn] near a [Community]</li>
+    <li>image->a [Character] [desc_pawn] surrounded by [Character]s</li>
+    <li>image->[Character]s playing [Game]</li>
+    <li>image->a [Character] [desc_pawn] playing [Game] with [Quantity_adjphrase] [Character]s</li>
+    <li>image->a [Character] [desc_pawn] holding a [Weapon]</li>
+    <li>image->a [Character] [desc_pawn] eating a [Vegetable]</li>
+    <li>image->[Quantity_adjphrase] [PersonJob]s and [PersonJob]s eating [Vegetable]s together</li>
+    <li>image->the minor celebrity [NamePerson] [desc_pawn]</li>
+    <li>image->a [Character] wearing a [Apparel] [desc_pawn]</li>
+    <li>image->a [Community]</li>
+    <li>image->a [TerrainFeature]</li>
+    <li>image->a [Weapon]</li>
+    <li>image->a [TreeType] tree</li>
+    <li>image->a [NaturalObject]</li>
+    <li>image->[Quantity_adjphrase] [Weapon]s</li>
+    <li>image->[Quantity_adjphrase] [Vegetable]s</li>
+    <li>image->an empty [Apparel]</li>
+    <li>image->a [Shape]</li>
+    <li>image->a [Shape] surrounded by [Shape]s</li>
+    <li>image->an abstracted rendering of [ConceptAny]</li>
+    <li>image->a [AdjectiveAny] abstract shape</li>
+    <li>desc_pawn(p=12)-></li>
+    <li>desc_pawn->flying through the air</li>
+    <li>desc_pawn->suspended in the air</li>
+    <li>desc_pawn->moving to the left</li>
+    <li>desc_pawn->moving to the right</li>
+    <li>desc_pawn->sitting on a table</li>
+    <li>desc_pawn->seen through a looking glass</li>
+    <li>desc_pawn->rendered in silhouette</li>
+    <li>desc_pawn->riding on a [Animal] wearing a [Apparel]</li>
+    <li>desc_pawn->looking [AdjectiveAny]</li>
+    <li>desc_pawn->covered in [Gore]</li>
+  -->
+  <TalelessImages.rulePack.rulesStrings>
+    <li>image->un [Character] solitaire [desc_pawn]</li>
+    <li>image->un [Character] solitaire [desc_pawn] près d'[TerrainFeatureAny_indef]</li>
+    <li>image->un [Character] solitaire [desc_pawn] près d'[CommunityAny_indef]</li>
+    <li>image->un [Character] [desc_pawn] entouré de [Character_AnyPlural]</li>
+    <li>image->un groupe de [Character_AnyPlural] jouant à [GameAnyDef]</li>
+    <li>image->un [Character] [desc_pawn] jouant à [GameAnyDef] avec [Quantity_adjphrase] [Character_AnyPlural]</li>
+    <li>image->un [Character] [desc_pawn] armé d'[WeaponAny_indef]</li>
+    <li>image->un [Character] [desc_pawn] mangeant [VegetableAny_indef]</li>
+    <li>image->une [Character_Feminine] solitaire [desc_pawn_fem]</li>
+    <li>image->une [Character_Feminine] solitaire [desc_pawn_fem] près d'[TerrainFeatureAny_indef]</li>
+    <li>image->une [Character_Feminine] solitaire [desc_pawn_fem] près d'[CommunityAny_indef]</li>
+    <li>image->une [Character_Feminine] [desc_pawn_fem] entourée de [Character_AnyPlural]</li>
+    <li>image->une [Character_Feminine] [desc_pawn_fem] jouant à [GameAnyDef] avec [Quantity_adjphrase] [Character_AnyPlural]</li>
+    <li>image->une [Character_Feminine] [desc_pawn_fem] armée d'[WeaponAny_indef]</li>
+    <li>image->une [Character_Feminine] [desc_pawn_fem] mangeant [VegetableAny_indef]</li>
+    <li>image->une scène avec [Quantity_adjphrase] [PersonJob_AnyPlural] et [PersonJob_AnyPlural] mangeant des [Vegetable_AnyPlural] ensemble</li>
+    <li>image->une personne célèbre, [NamePerson] [desc_pawn]</li>
+    <li>image->un [Character] portant [ApparelAny_indef] [desc_pawn]</li>
+    <li>image->une [Character_Feminine] portant [ApparelAny_indef] [desc_pawn_fem]</li>
+    <li>image->[CommunityAny_indef]</li>
+    <li>image->[TerrainFeatureAny_indef]</li>
+    <li>image->[WeaponAny_indef]</li>
+    <li>image->[TreeTypeAny_indef]</li>
+    <li>image->[NaturalObjectAny_indef]</li>
+    <li>image->une scène avec [Quantity_adjphrase] [Weapon_AnyPlural]</li>
+    <li>image->une scène avec [Quantity_adjphrase] [Vegetable_AnyPlural]</li>
+    <li>image->[ApparelAny_indef] vide</li>
+    <li>image->un [Shape]</li>
+    <li>image->un [Shape] entouré de [Shape]s</li>
+    <li>image->une représentation abstraite d'un [ConceptAny_Masculine]</li>
+    <li>image->une représentation abstraite d'une [ConceptAny_Feminine]</li>
+    <li>image->une forme abstraite [AdjectiveAny_Feminine]</li>
+    <li>desc_pawn(p=12)-></li>
+    <li>desc_pawn->[desc_pawn_inv]</li>
+    <li>desc_pawn->suspendu dans les airs</li>
+    <!--     <li>desc_pawn->debout sur le sol</li> -->
+    <li>desc_pawn->assis à une table</li>
+    <li>desc_pawn->vu à travers un miroir</li>
+    <li>desc_pawn->représenté en silhouette</li>
+    <li>desc_pawn->chevauchant [AnimalAny_indef] portant [ApparelAny_indef]</li>
+    <li>desc_pawn->couvert de [Gore]</li>
+    <li>desc_pawn_fem->[desc_pawn_inv]</li>
+    <li>desc_pawn_fem->assise à une table</li>
+    <li>desc_pawn_fem->vue à travers un miroir</li>
+    <li>desc_pawn_fem->représentée en silhouette</li>
+    <li>desc_pawn_fem->suspendue dans les airs</li>
+    <li>desc_pawn_fem->couverte de [Gore]</li>
+    <li>desc_pawn_inv->volant dans les airs</li>
+    <li>desc_pawn_inv->se déplaçant vers la gauche</li>
+    <li>desc_pawn_inv->se déplaçant vers la droite</li>
+    <li>desc_pawn_inv->ayant l'air [AdjectiveAny]</li>
+  </TalelessImages.rulePack.rulesStrings>
+  
+</LanguageData>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest>
+  <identifier>b606.lang.RimWorldfr</identifier>
+  <version>1.2.0</version>
+  <!--
+    <incompatibleWith>
+        <li>b606.LanguageWorkerSpanish.Mod</li>
+    </incompatibleWith>
+  -->
+  <showCrossPromotions>true</showCrossPromotions>
+  <manifestUri>https://github.com/b606/RW-PackFrancais/raw/master/About/Manifest.xml</manifestUri>
+  <downloadUri>https://github.com/b606/RW-PackFrancais/releases/latest</downloadUri>
+</Manifest>

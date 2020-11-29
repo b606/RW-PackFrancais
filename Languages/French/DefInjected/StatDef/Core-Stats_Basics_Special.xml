@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: construction speed -->
+  <ConstructionSpeedFactor.label>vitesse de construction</ConstructionSpeedFactor.label>
+  <!-- EN: The speed at which buildings made of this are constructed is multiplied by this value.\n\nSome materials, like stone, are slow to build from, while others, like wood, are fast. -->
+  <ConstructionSpeedFactor.description>La vitesse à laquelle les bâtiments sont construits est multipliée par cette valeur.\n\nCertains matériaux, comme la pierre, sont lents à transformer, tandis que d'autres, comme le bois, sont plus rapides.</ConstructionSpeedFactor.description>
+  <!-- EN: construction speed (material factor) -->
+  <ConstructionSpeedFactor.labelForFullStatList>vitesse de construction (facteur matériel)</ConstructionSpeedFactor.labelForFullStatList>
+  
+  <!-- EN: medical potency -->
+  <MedicalPotency.label>efficacité médicale</MedicalPotency.label>
+  <!-- EN: How effective this is when used to tend wounds and diseases, or do surgery.\n\nHigher medical potency improves the quality of tending, and acts as a multiplier on the chance of success during surgery.\nMedical potency is just one factor in medical outcomes, among many others, including doctor ability, equipment, cleanliness, and luck. -->
+  <MedicalPotency.description>Indicateur de l'efficacité de ce traitement lorsqu'il est utilisé pour soigner les plaies, les maladies ou pour un acte chirurgical.\n\nUne efficacité médicale plus élevée améliore la qualité du soin et agit comme un multiplicateur sur les chances de succès pendant la chirurgie.\nL'efficacité médicale n'est qu'un facteur parmi beaucoup d'autres, il faut aussi tenir compte de la capacité du médecin, l'équipement, la propreté et la chance.</MedicalPotency.description>
+  
+  <!-- EN: medical tend quality maximum -->
+  <MedicalQualityMax.label>qualité médicale maximale</MedicalQualityMax.label>
+  <!-- EN: The maximum quality of medical tending that can be achieved while using this.\n\nBetter tend quality allows skilled doctors to treat wounds better, as well as more reliably. -->
+  <MedicalQualityMax.description>La qualité maximale de soins médicaux qui peuvent être dispensés en utilisant ceci.\n\nUne meilleure qualité de soin permet aux médecins qualifiés de traiter les plaies de manière plus efficace et plus fiable.</MedicalQualityMax.description>
+  
+  <!-- EN: meditation psyfocus bonus -->
+  <MeditationFocusStrength.label>bonus de concentration psychique lors de la méditation</MeditationFocusStrength.label>
+  <!-- EN: The amount of extra psyfocus someone gains by focusing on this object during meditation, in addition to their own base rate of meditation psyfocus gain.\n\nFor some objects, this number can change depending on the surroundings and the person doing the meditating. -->
+  <MeditationFocusStrength.description>Le gain de concentration supplémentaire que quelqu'un reçoit en se focalisant sur cet objet pendant la méditation, en plus du taux de concentration psychique de base.\n\nPour certains objets, ce nombre peut changer en fonction de l'environnement et de la personne qui médite.</MeditationFocusStrength.description>
+  <!-- EN: {0} / day -->
+  <MeditationFocusStrength.formatString>{0}/jour</MeditationFocusStrength.formatString>
+  <!-- EN: {0} / day -->
+  <MeditationFocusStrength.formatStringUnfinalized>{0}/jour</MeditationFocusStrength.formatStringUnfinalized>
+  
+  <!-- EN: psychic sensitivity offset -->
+  <PsychicSensitivityOffset.label>décalage de sensibilité psychique</PsychicSensitivityOffset.label>
+  <!-- EN: An offset applied to the user's psychic sensitivity. -->
+  <PsychicSensitivityOffset.description>Un décalage appliqué à la sensibilité psychique de l'utilisateur.</PsychicSensitivityOffset.description>
+  
+</LanguageData>

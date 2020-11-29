@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_definite] used [ABILITY_label] on [SUBJECT_definite].</li>
+  -->
+  <Event_AbilityUsed.rulePack.rulesStrings>
+    <li>r_logentry->[INITIATOR_definite] a utilisé [ABILITY_label] sur [SUBJECT_definite].</li>
+  </Event_AbilityUsed.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_definite] used [ITEM_indefinite] on [SUBJECT_definite].</li>
+  -->
+  <Event_ItemUsed.rulePack.rulesStrings>
+    <li>r_logentry->[[INITIATOR_definite] a utilisé [ITEM_indefinite] sur [SUBJECT_definite].</li>
+  </Event_ItemUsed.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_logentry->[SUBJECT_definite] was [stunned] by the attack.</li>
+    <li>r_logentry->[SUBJECT_definite] was [stunned] by [INITIATOR_definite]'s attack.</li>
+    <li>stunned(p=3)->stunned</li>
+    <li>stunned->staggered</li>
+    <li>stunned->dazed</li>
+    <li>stunned->disoriented</li>
+    <li>r_logentry->[SUBJECT_definite] [staggered].</li>
+    <li>r_logentry->[SUBJECT_definite] [staggered] from the attack.</li>
+    <li>r_logentry->[SUBJECT_definite] [staggered] from [INITIATOR_definite]'s attack.</li>
+    <li>staggered(p=3)->staggered</li>
+    <li>staggered->faltered</li>
+    <li>staggered->wobbled</li>
+    <li>staggered->wavered</li>
+    <li>r_logentry->[SUBJECT_definite] [stumbled] around blearily.</li>
+    <li>r_logentry->[SUBJECT_definite] [stumbled] around in confusion.</li>
+    <li>stumbled(p=3)->stumbled</li>
+    <li>stumbled->wavered</li>
+    <li>stumbled->wobbled</li>
+    <li>stumbled->staggered</li>
+  -->
+  <Event_Stun.rulePack.rulesStrings>
+    <li>r_logentry->[SUBJECT_definite] a été [stunned] par l'attaque.</li>
+    <li>r_logentry->[SUBJECT_definite] a été [stunned] par l'attaque de [INITIATOR_definite].</li>
+    <li>stunned(p=3,SUBJECT_gender==Male)->étourdi</li>
+    <li>stunned(SUBJECT_gender==Male)->stupéfait</li>
+    <li>stunned(SUBJECT_gender==Male)->hébété</li>
+    <li>stunned(SUBJECT_gender==Male)->désorienté</li>
+    <li>stunned(p=3,SUBJECT_gender==Female)->étourdie</li>
+    <li>stunned(SUBJECT_gender==Female)->stupéfaite</li>
+    <li>stunned(SUBJECT_gender==Female)->hébétée</li>
+    <li>stunned(SUBJECT_gender==Female)->désorientée</li>
+    <li>stunned(p=3,SUBJECT_gender==None)->étourdi</li>
+    <li>stunned(SUBJECT_gender==None)->stupéfait</li>
+    <li>stunned(SUBJECT_gender==None)->hébété</li>
+    <li>stunned(SUBJECT_gender==None)->désorienté</li>
+    <li>r_logentry->[SUBJECT_definite] [staggered].</li>
+    <li>r_logentry->[SUBJECT_definite] [staggered] par l'attaque.</li>
+    <li>r_logentry->[SUBJECT_definite] [staggered] par l'attaque de [INITIATOR_definite].</li>
+    <li>staggered(p=3,SUBJECT_gender==Male)->est stupéfait</li>
+    <li>staggered(SUBJECT_gender==Male)->est mis en echec</li>
+    <li>staggered(SUBJECT_gender==Male)->est désorienté</li>
+    <li>staggered(SUBJECT_gender==Male)->est affaibli</li>
+    <li>staggered(p=3,SUBJECT_gender==Female)->est stupéfaite</li>
+    <li>staggered(SUBJECT_gender==Female)->est mise en echec</li>
+    <li>staggered(SUBJECT_gender==Female)->est désorientée</li>
+    <li>staggered(SUBJECT_gender==Female)->est affaiblie</li>
+    <li>staggered(p=3,SUBJECT_gender==None)->est stupéfait</li>
+    <li>staggered(SUBJECT_gender==None)->est mis en echec</li>
+    <li>staggered(SUBJECT_gender==None)->est désorienté</li>
+    <li>staggered(SUBJECT_gender==None)->est affaibli</li>
+    <li>r_logentry->[SUBJECT_definite] [stumbled] visiblement.</li>
+    <li>r_logentry->[SUBJECT_definite] [stumbled] dans la confusion.</li>
+    <li>stumbled(p=3,SUBJECT_gender==Male)->est tombé</li>
+    <li>stumbled(p=3,SUBJECT_gender==Female)->est tombée</li>
+    <li>stumbled(p=3,SUBJECT_gender==None)->est tombé</li>
+    <li>stumbled->faiblit</li>
+    <li>stumbled->vacille</li>
+    <li>stumbled(SUBJECT_gender==Male)->est pris de stupeur</li>
+    <li>stumbled(SUBJECT_gender==Female)->est prise de stupeur</li>
+    <li>stumbled(SUBJECT_gender==None)->est pris de stupeur</li>
+  </Event_Stun.rulePack.rulesStrings>
+  
+</LanguageData>

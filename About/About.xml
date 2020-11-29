@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ModMetaData>
+  <name>Pack de traduction française</name>
+  <author>b606</author>
+	<url>https://github.com/b606/RW-PackFrancais</url>
+  <packageId>b606.lang.RimWorldfr</packageId>
+  <description>Pack de traduction française de mods de RimWorld.
+
+Toutes les traductions françaises des mods de RimWorld disponible en un seul endroit !
+
+Ce pack contient toutes mes dernières traductions, y compris :
+- Core et Royalty [Français], envoyé sur https://github.com/Ludeon/RimWorld-fr mais pas encore distribué officiellement. 
+- Mod Manager [Français], jusqu-à ce que ce soit intégré par Fluffy.
+- EdB PrepareCarefully [Français], Numbers [Français] et Numbers Trait AddOn [Français], disponibles aussi en mods indépendants.
+- et d'autres à venir...
+
+D'autres traducteurs pourraient aussi intégrer leurs œuvres ici s'ils le souhaitent. Pour cela, veuillez envoyer les fichiers en PR sur https://github.com/b606/RW-PackFrancais en les intégrant dans les différents sous-répertoires de `Languages/French`.</description>
+  <supportedVersions>
+    <li>1.0</li>
+    <li>1.1</li>
+    <li>1.2</li>
+  </supportedVersions>
+  <loadAfter>
+    <li>ludeon.rimworld</li>
+    <li>ludeon.rimworld.royalty</li>
+    <li>fluffy.modmanager</li>
+    <li>EdB.PrepareCarefully</li>
+    <li>Mehni.Numbers</li>
+    <li>TalliDown.Numbers</li>
+    <li>telardo.NumbersTraitAddOn</li>
+  </loadAfter>
+  <customData IgnoreIfNoMatchingField="True"></customData>
+</ModMetaData>

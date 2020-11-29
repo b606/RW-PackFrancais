@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Trait_AddOn_Setting_Trait_Width>Largeur de colonne des traits (ajuster s'il n'y a pas assez d'espace, par défaut 350)</Trait_AddOn_Setting_Trait_Width>
+	<Trait_AddOn_Setting_Use_Customized_Color>Utiliser des couleurs personnalisées de trait dans l'onglet Numbers</Trait_AddOn_Setting_Use_Customized_Color>
+	<Trait_AddOn_Setting_Remake_Button>Reconstruire le dictionnaire (cliquer ceci après que vous avez ajouté des traits venant des mods, sinon ils ne seront pas détectés)</Trait_AddOn_Setting_Remake_Button>
+	<Trait_AddOn_Setting_Customized_Color_Table>Table de couleurs personnalisées</Trait_AddOn_Setting_Customized_Color_Table>
+	
+</LanguageData>

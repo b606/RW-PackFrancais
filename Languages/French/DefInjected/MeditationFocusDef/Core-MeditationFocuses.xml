@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: artistic -->
+  <Artistic.label>artistique</Artistic.label>
+  
+  <!-- EN: dignified -->
+  <Dignified.label>digne</Dignified.label>
+  
+  <!-- EN: flame -->
+  <Flame.label>flamme</Flame.label>
+  
+  <!-- EN: minimal -->
+  <Minimal.label>minimale</Minimal.label>
+  
+  <!-- EN: morbid -->
+  <Morbid.label>morbide</Morbid.label>
+  
+  <!-- EN: natural -->
+  <Natural.label>naturelle</Natural.label>
+  
+</LanguageData>

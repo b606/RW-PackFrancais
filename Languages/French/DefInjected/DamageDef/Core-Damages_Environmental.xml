@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: burn -->
+  <Burn.label>brûlure</Burn.label>
+  <!-- EN: {0} has burned to death. -->
+  <Burn.deathMessage>{0} a succombé à ses brûlures.</Burn.deathMessage>
+  
+  <!-- EN: flame -->
+  <Flame.label>immolation</Flame.label>
+  <!-- EN: {0} has burned to death. -->
+  <Flame.deathMessage>{0} est mor{PAWN_gender ? t : te : t(e)} brûl{PAWN_gender ? é : ée : é(e)} vi{PAWN_gender ? f : ve : f(ve)}.</Flame.deathMessage>
+  
+  <!-- EN: frostbite -->
+  <Frostbite.label>engelures</Frostbite.label>
+  <!-- EN: {0} has succumbed to frostbite. -->
+  <Frostbite.deathMessage>{0} est mor{PAWN_gender ? t : te : t(e)} à cause de ses engelures.</Frostbite.deathMessage>
+  
+  <!-- EN: scratch -->
+  <TornadoScratch.label>taillades</TornadoScratch.label>
+  <!-- EN: {0} has been killed by a tornado. -->
+  <TornadoScratch.deathMessage>{0} a été tu{PAWN_gender ? é : ée : é(e)} par une tornade.</TornadoScratch.deathMessage>
+  
+</LanguageData>

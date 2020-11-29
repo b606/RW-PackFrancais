@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: manhunter -->
+  <Manhunter.label>chasse à l'homme</Manhunter.label>
+  <!-- EN: Maddened: Manhunter -->
+  <Manhunter.baseInspectLine>Folie : chasse à l'homme</Manhunter.baseInspectLine>
+  <!-- EN: {0} has become a manhunter! -->
+  <Manhunter.beginLetter>{0} est deven{PAWN_gender ? u : ue : u(e)} {PAWN_gender ? un : une : un(e)} chasseu{PAWN_gender ? r : se : r(se)} d'hommes !</Manhunter.beginLetter>
+  <Manhunter.beginLetterLabel>chasseur d'hommes</Manhunter.beginLetterLabel>
+  <!-- EN: {0}'s manhunting bloodlust has come to an end. -->
+  <Manhunter.recoveryMessage>{0} n'a plus la pulsion de chasser des hommes.</Manhunter.recoveryMessage>
+  
+  <!-- EN: manhunter -->
+  <ManhunterPermanent.label>chasse à l'homme</ManhunterPermanent.label>
+  <!-- EN: Maddened: Manhunter -->
+  <ManhunterPermanent.baseInspectLine>Folie : chasse à l'homme</ManhunterPermanent.baseInspectLine>
+  <!-- EN: {0} has become a manhunter! -->
+  <ManhunterPermanent.beginLetter>{0} est deven{PAWN_gender ? u : ue : u(e)} {PAWN_gender ? un : une : un(e)} chasseu{PAWN_gender ? r : se : r(se)} d'hommes !</ManhunterPermanent.beginLetter>
+  <ManhunterPermanent.beginLetterLabel>chasseur d'hommes</ManhunterPermanent.beginLetterLabel>
+  <!-- EN: {0}'s manhunting bloodlust has come to an end. -->
+  <ManhunterPermanent.recoveryMessage>{0} n'a plus la pulsion de chasser des hommes.</ManhunterPermanent.recoveryMessage>
+  
+  <!-- EN: panic fleeing -->
+  <PanicFlee.label>fuite de panique</PanicFlee.label>
+  <!-- EN: Mental state: Fleeing in panic -->
+  <PanicFlee.baseInspectLine>État mental : fuite de panique</PanicFlee.baseInspectLine>
+  <!-- EN: {0} is fleeing in panic. -->
+  <PanicFlee.beginLetter>{0} fuit paniqu{PAWN_gender ? é : ée : é(e)}.</PanicFlee.beginLetter>
+  <!-- EN: flee -->
+  <PanicFlee.beginLetterLabel>fuite</PanicFlee.beginLetterLabel>
+  <!-- EN: {0} is no longer fleeing in panic. -->
+  <PanicFlee.recoveryMessage>{0} ne fuit plus sous le coup de la panique.</PanicFlee.recoveryMessage>
+  
+  <!-- EN: social fighting -->
+  <SocialFighting.label>bagarre</SocialFighting.label>
+  <!-- EN: Mental state: Social fighting -->
+  <SocialFighting.baseInspectLine>État mental : bagarre</SocialFighting.baseInspectLine>
+  
+  <!-- EN: confused wandering -->
+  <WanderConfused.label>désorientation mentale</WanderConfused.label>
+  <!-- EN: Mental state: Confused and wandering -->
+  <WanderConfused.baseInspectLine>État mental : confusion et errance</WanderConfused.baseInspectLine>
+  <!-- EN: {0} has broken down and is wandering around confused. -->
+  <WanderConfused.beginLetter>{0} vient de craquer et erre sans but, complètement désorient{PAWN_gender ? é : ée : é(e)}.</WanderConfused.beginLetter>
+  <!-- EN: confusion -->
+  <WanderConfused.beginLetterLabel>désorientation</WanderConfused.beginLetterLabel>
+  <!-- EN: {0} is no longer confused. -->
+  <WanderConfused.recoveryMessage>{0} n'est plus désorient{PAWN_gender ? é : ée : é(e)}.</WanderConfused.recoveryMessage>
+  
+</LanguageData>

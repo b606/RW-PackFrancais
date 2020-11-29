@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- things you won't find here: dynamically generated columns such as needs, skills, records, capacities, etc -->
+
+  <Numbers_Traits.label>Traits</Numbers_Traits.label>
+  <Numbers_Traits.headerTip>Éléments marquants.</Numbers_Traits.headerTip>
+
+
+</LanguageData>

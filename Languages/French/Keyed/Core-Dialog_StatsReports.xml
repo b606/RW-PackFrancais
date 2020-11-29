@@ -1,0 +1,354 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Tool -->
+  <Tool>Outil</Tool>
+  <!-- EN: damage -->
+  <DamageLower>dégâts</DamageLower>
+  <!-- EN: seconds per attack -->
+  <SecondsPerAttackLower>secondes par attaque</SecondsPerAttackLower>
+
+  <!-- EN: Base value -->
+  <StatsReport_BaseValue>Valeur de base</StatsReport_BaseValue>
+  <!-- EN: Relevant traits -->
+  <StatsReport_RelevantTraits>Caractéristiques pertinentes</StatsReport_RelevantTraits>
+  <!-- EN: Relevant gear -->
+  <StatsReport_RelevantGear>Équipement pertinent</StatsReport_RelevantGear>
+  <!-- EN: Relevant health conditions -->
+  <StatsReport_RelevantHediffs>Conditions de santé pertinentes</StatsReport_RelevantHediffs>
+  <!-- EN: Life stage -->
+  <StatsReport_LifeStage>Période de vie</StatsReport_LifeStage>
+  <!-- EN: Material -->
+  <StatsReport_Material>Matériau</StatsReport_Material>
+  <!-- EN: Character quality -->
+  <StatsReport_CharacterQuality>Qualité du personnage</StatsReport_CharacterQuality>
+  <!-- EN: Skills -->
+  <StatsReport_Skills>Facteurs de compétence</StatsReport_Skills>
+  <!-- EN: Post-process - other stats -->
+  <StatsReport_OtherStats>Post-process - autres facteurs</StatsReport_OtherStats>
+  <!-- EN: Health -->
+  <StatsReport_Health>Santé</StatsReport_Health>
+  <!-- EN: {0} importance -->
+  <HealthFactorPercentImpact>{0} importance</HealthFactorPercentImpact>
+  <!-- EN: {0} impact -->
+  <HealthOffsetScale>{0} impact</HealthOffsetScale>
+  <!-- EN: {0} max -->
+  <HealthFactorMaxImpact>{0} max</HealthFactorMaxImpact>
+  <!-- EN: if below {0} -->
+  <HealthFactorAllowedDefect>si en dessous de {0}</HealthFactorAllowedDefect>
+  <!-- EN: Post-process curve -->
+  <StatsReport_PostProcessed>Courbe de post-traitement</StatsReport_PostProcessed>
+  <!-- EN: Final value -->
+  <StatsReport_FinalValue>Valeur finale</StatsReport_FinalValue>
+  <!-- EN: Materials and labor -->
+  <StatsReport_MarketValueFromStuffsAndWork>Valeur de base du marché calculée à partir des matériaux de construction et de la quantité de travail.</StatsReport_MarketValueFromStuffsAndWork>
+  <!-- EN: Quality multiplier -->
+  <StatsReport_QualityMultiplier>Multiplicateur de qualité</StatsReport_QualityMultiplier>
+  <!-- EN: Max gain -->
+  <StatsReport_MaxGain>Gain maximal</StatsReport_MaxGain>
+  <!-- EN: Multiplier for age {0} -->
+  <StatsReport_AgeMultiplier>Multiplicateur d'âge {0}</StatsReport_AgeMultiplier>
+  <!-- EN: Multiplier for health {0} -->
+  <StatsReport_HealthMultiplier>Multiplicateur de santé {0}</StatsReport_HealthMultiplier>
+  <!-- EN: Cost to reload ({COUNT} {AMMO_label}) -->
+  <StatsReport_ReloadMarketValue>Coût de rechargement ({COUNT} {AMMO_label})</StatsReport_ReloadMarketValue>
+  <!-- EN: Multiplier for remaining {CHARGENOUN_plural} ({0}) -->
+  <StatsReport_ReloadRemainingChargesMultipler>Multiplicateur pour {CHARGENOUN_plural} restants ({0})</StatsReport_ReloadRemainingChargesMultipler>
+  <!-- EN: Multiplier for mood {0} -->
+  <StatsReport_MoodMultiplier>Multiplicateur d'humeur {0}</StatsReport_MoodMultiplier>
+  <!-- EN: Multiplier for light {0} -->
+  <StatsReport_LightMultiplier>Multiplicateur de lumière {0}</StatsReport_LightMultiplier>
+  <!-- EN: Multiplier for difficulty {0} -->
+  <StatsReport_DifficultyMultiplier>Multiplicateur de difficulté {0}</StatsReport_DifficultyMultiplier>
+  <!-- EN: In bed -->
+  <StatsReport_InBed>Au lit</StatsReport_InBed>
+  <!-- EN: Facilities -->
+  <StatsReport_Facilities>Équipement</StatsReport_Facilities>
+  <!-- EN: Multiplier for body size {0} -->
+  <StatsReport_BodySize>Multiplicateur pour la taille du corps {0}</StatsReport_BodySize>
+  <!-- EN: Carefully slaughtered without wounds -->
+  <StatsReport_HasHediffExplanation>Abattu soigneusement sans blessures</StatsReport_HasHediffExplanation>
+  <!-- EN: DPS = Melee damage * Melee hit chance / Cooldown in seconds -->
+  <StatsReport_MeleeDPSExplanation>DPS = Dégâts x Précision / Temps de recharge (en secondes)</StatsReport_MeleeDPSExplanation>
+  <!-- EN: Melee damage -->
+  <StatsReport_MeleeDamage>Dégâts de mêlée</StatsReport_MeleeDamage>
+  <!-- EN: Cooldown -->
+  <StatsReport_Cooldown>Temps de recharge</StatsReport_Cooldown>
+  <!-- EN: Melee hit chance -->
+  <StatsReport_MeleeHitChance>Précision</StatsReport_MeleeHitChance>
+  <!-- EN: {0} s -->
+  <StatsReport_CooldownFormat>{0} s</StatsReport_CooldownFormat>
+  <!-- EN: Life expectancy -->
+  <StatsReport_LifeExpectancy>Durée de vie</StatsReport_LifeExpectancy>
+  <!-- EN: Multiplier for missing body parts -->
+  <StatsReport_MissingBodyParts>Multiplicateur pour les parties du corps manquantes</StatsReport_MissingBodyParts>
+  <!-- EN: Gear and inventory -->
+  <StatsReport_GearAndInventoryMass>Masse des équipements et inventaire</StatsReport_GearAndInventoryMass>
+  <!-- EN: Multiplier for worn by corpse -->
+  <StatsReport_WornByCorpse>Multiplicateur pour les habits d'un mort</StatsReport_WornByCorpse>
+  <!-- EN: average of all attacks -->
+  <AverageOfAllAttacks>moyenne d'attaque</AverageOfAllAttacks>
+  <!-- EN: Scenario -->
+  <StatsReport_ScenarioFactor>Scénario</StatsReport_ScenarioFactor>
+  <!-- EN: Ingredients -->
+  <StatsReport_IngredientsMass>Ingrédients</StatsReport_IngredientsMass>
+  <!-- EN: Permanently disabled. -->
+  <StatsReport_PermanentlyDisabled>Invalidité permanente.</StatsReport_PermanentlyDisabled>
+  <!-- EN: {0} -->
+  <StatsReport_Inspiration>{0}</StatsReport_Inspiration>
+  <!-- EN: Added body parts -->
+  <StatsReport_AddedBodyPartsMass>Organes ajoutés</StatsReport_AddedBodyPartsMass>
+  <!-- EN: Material effect multiplier -->
+  <StatsReport_StuffEffectMultiplier>Multiplicateur pour l'effet du matériel</StatsReport_StuffEffectMultiplier>
+  <!-- EN: Resting -->
+  <StatsReport_Resting>Au repos</StatsReport_Resting>
+  <!-- EN: recreation type -->
+  <StatsReport_JoyKind>Type de loisir</StatsReport_JoyKind>
+  <!-- EN: work to uninstall -->
+  <StatsReport_WorkToUninstall>Travail de désinstallation</StatsReport_WorkToUninstall>
+  <!-- EN: Multiplier for growth {0} -->
+  <StatsReport_PlantGrowth>Multiplicateur pour la croissance {0}</StatsReport_PlantGrowth>
+  <!-- EN: scaled because wild -->
+  <StatsReport_PlantGrowth_Wild>réduite puisque sauvage</StatsReport_PlantGrowth_Wild>
+  <!-- EN: Not flesh -->
+  <StatsReport_NotFlesh>n'est pas de la chair</StatsReport_NotFlesh>
+  <!-- EN: Not fresh -->
+  <StatsReport_NotFresh>a pourri</StatsReport_NotFresh>
+  <!-- EN: Wild man -->
+  <StatsReport_WildMan>Homme sauvage</StatsReport_WildMan>
+  <!-- EN: Attack -->
+  <StatsReport_NonToolAttack>Attaque</StatsReport_NonToolAttack>
+  
+  <!-- EN: Possible offsets -->
+  <StatReport_PossibleOffsets>Décalages possibles</StatReport_PossibleOffsets>
+  <!-- EN: Room impressiveness -->
+  <StatsReport_RoomImpressiveness>Stature de la pièce</StatsReport_RoomImpressiveness>
+  <!-- EN: Lit -->
+  <StatsReport_Lit>Èclairée</StatsReport_Lit>
+  <!-- EN: Contains {0} -->
+  <StatsReport_GraveFull>Contient {0}</StatsReport_GraveFull>
+  <!-- EN: Contains a human corpse -->
+  <StatsReport_GraveFullAbstract>Contient un cadavre humain</StatsReport_GraveFullAbstract>
+  <!-- EN: Meditator is related to the corpse inside -->
+  <StatsReport_GraveCorpseRelatedAbstract>La personne qui médite est liée au cadavre à l'intérieur</StatsReport_GraveCorpseRelatedAbstract>
+  <!-- EN: From quality -->
+  <StatsReport_FromQuality>De la qualité</StatsReport_FromQuality>
+  <!-- EN: Nearby artificial structures -->
+  <StatsReport_NearbyArtificialStructures>Structures artificielles à proximité</StatsReport_NearbyArtificialStructures>
+  <!-- EN: Satisfies user's title requirements -->
+  <StatsReport_SatisfiesTitle>Satisfait aux exigences du titre de l'utilisateur</StatsReport_SatisfiesTitle>
+
+  <!-- EN: Different sources of recreation satisfy different recreation types. Colonists become bored of doing the same recreation type repeatedly, so it is important to provide a variety of recreation sources with different recreation types. -->
+  <Stat_RecreationType_Desc>Différentes sources de loisirs satisfont différents types de loisirs. Les colons s'ennuient de faire le même type de loisirs de façon répétée, il est donc important de fournir une variété de sources de loisirs avec différents types de loisirs.</Stat_RecreationType_Desc>
+  <!-- EN: All recreation types -->
+  <Stat_JoyKind_AllTypes>Tous les types de loisir</Stat_JoyKind_AllTypes>
+  <!-- EN: Mined item -->
+  <Stat_MineableThing_Name>objet extrait</Stat_MineableThing_Name>
+  <!-- EN: The item that will be yielded when mining this. -->
+  <Stat_MineableThing_Desc>L'objet qui sera obtenu lors de l'extraction.</Stat_MineableThing_Desc>
+  <!-- EN: Mining yield -->
+  <Stat_MiningYield_Name>Rendement minier.</Stat_MiningYield_Name>
+  <!-- EN: The maximum amount of items yielded when mining this. The actual yield will be adjusted by the mining skill of the miner. -->
+  <Stat_MiningYield_Desc>La quantité maximale de minerais disponible lors de cette extraction. Le taux d'extraction réel sera adapté selon la compétence du mineur.</Stat_MiningYield_Desc>
+  <!-- EN: Source species -->
+  <Stat_SourceSpecies_Name>Espèce d'origine</Stat_SourceSpecies_Name>
+  <!-- EN: The species of creature from which this was taken. -->
+  <Stat_SourceSpecies_Desc>L'espèce de créature à partir de laquelle ceci a été pris.</Stat_SourceSpecies_Desc>
+  <!-- EN: Stuff -->
+  <Stat_Stuff_Name>Matériau</Stat_Stuff_Name>
+  <!-- EN: The stuff this thing is made of. This affects many other stats, including weapon damage, apparel armor and insulation, item and building hit points, beauty, market value, and much more. -->
+  <Stat_Stuff_Desc>Le matériau dont cet objet est fait. Cela affecte de nombreuses autres statistiques, y compris les dégâts infligés par les armes, l'armure et l'isolation des vêtements, les points de vie des objets et des bâtiments, la beauté de l'objet, la valeur marchande et bien plus encore.</Stat_Stuff_Desc>
+  <!-- EN: Weapon -->
+  <Stat_Weapon_Name>Arme</Stat_Weapon_Name>
+  <!-- EN: The weapon used by this turret. -->
+  <Stat_Weapon_Desc>L'arme utilisée par cette tourelle.</Stat_Weapon_Desc>
+  <!-- EN: How much damage an object can take before being destroyed. -->
+  <Stat_HitPoints_Desc>La quantité de dégâts qu'un objet peut subir avant d'être détruit.</Stat_HitPoints_Desc>
+  <!-- EN: The amount of work it takes to uninstall this. -->
+  <Stat_Thing_WorkToUninstall_Desc>La quantité de travail nécessaire pour la désinstallation.</Stat_Thing_WorkToUninstall_Desc>
+  <!-- EN: Which facilities can be used to produce this. -->
+  <Stat_Thing_CreatedAt_Desc>Liste des installations pouvant être utilisées pour produire ceci.</Stat_Thing_CreatedAt_Desc>
+  <!-- EN: The amount of damage this weapon deals.\n\nThis may be deflected or mitigated by the target's armor. -->
+  <Stat_Thing_Damage_Desc>La quantité de dégâts infligés par cette arme.\n\nCela peut être dévié ou atténué par l'armure de la cible.</Stat_Thing_Damage_Desc>
+  <!-- EN: A multiplier on the amount of experience doctors gain when using this to tend a patient. -->
+  <Stat_Thing_Drug_MedicineXpGainFactor_Desc>Multiplicateur d'expérience que les médecins acquièrent lorsqu'ils utilisent cet objet pour soigner un patient.</Stat_Thing_Drug_MedicineXpGainFactor_Desc>
+  <!-- EN: The attributes of this plant. -->
+  <Stat_Thing_Plant_Attributes_Desc>Les attributs de cette plante.</Stat_Thing_Plant_Attributes_Desc>
+  <!-- EN: Which body parts this covers.\n\nArmor does not protect body parts that it does not cover. -->
+  <Stat_Thing_Apparel_Covers_Desc>Liste des parties du corps que cet objet couvre.\n\nUn vêtement ou une armure ne protège pas les parties du corps qu'il ne couvre pas.</Stat_Thing_Apparel_Covers_Desc>
+  <!-- EN: Which apparel layers this fills.\n\nFor a given body part, only one piece of apparel can be worn in each layer. -->
+  <Stat_Thing_Apparel_Layer_Desc>Liste des couches de vêtements que cet objet occupe.\n\nPour une partie du corps donnée, une seule pièce de vêtements peut être portée pour chaque couche.</Stat_Thing_Apparel_Layer_Desc>
+  <!-- EN: The minimum soil fertility that this plant requires to grow. -->
+  <Stat_Thing_Plant_FertilityRequirement_Desc>La fertilité minimale du sol dont cette plante a besoin pour se développer.</Stat_Thing_Plant_FertilityRequirement_Desc>
+  <!-- EN: How sensitive this plant is to soil fertility.\n\nLow sensitivity means the plant will grow about the same speed in rich or poor soil. High sensitivity means the plant grows slow in poor soil, but faster in rich soil. -->
+  <Stat_Thing_Plant_FertilitySensitivity_Desc>La sensibilité de cette plante à la fertilité du sol.\n\nUne sensibilité faible signifie que la plante poussera à peu près à la même vitesse dans un sol riche ou pauvre. Une sensibilité élevée signifie que la plante pousse lentement dans un sol pauvre, mais plus rapidement dans un sol riche.</Stat_Thing_Plant_FertilitySensitivity_Desc>
+  <!-- EN: The amount of light this plant requires to grow. -->
+  <Stat_Thing_Plant_LightRequirement_Desc>La quantité de lumière dont cette plante a besoin pour se développer.</Stat_Thing_Plant_LightRequirement_Desc>
+  <!-- EN: The lifespan of the plant.\n\nPlants naturally die after they reach a certain age, even if not harvested. -->
+  <Stat_Thing_Plant_LifeSpan_Desc>La durée de vie de la plante.\n\nLes plantes meurent naturellement après avoir atteint un certain âge, même si elles ne sont pas récoltées.</Stat_Thing_Plant_LifeSpan_Desc>
+  <!-- EN: The amount of product this plant will yield when harvested. -->
+  <Stat_Thing_Plant_HarvestYield_Desc>La quantité de produit que cette plante donnera lors de sa récolte.</Stat_Thing_Plant_HarvestYield_Desc>
+  <!-- EN: The minimum temperature this plant can survive.\n\nTemperatures below this will cause damage over time. -->
+  <Stat_Thing_Plant_MinGrowthTemperature_Desc>La température minimale à laquelle cette plante peut survivre.\n\nDes températures inférieures à celle-ci entraîneront des dommages au fil du temps.</Stat_Thing_Plant_MinGrowthTemperature_Desc>
+  <!-- EN: The maximum temperature this plant can survive.\n\nTemperatures above this will cause damage over time. -->
+  <Stat_Thing_Plant_MaxGrowthTemperature_Desc>La température maximale à laquelle cette plante peut survivre.\n\nDes températures supérieures à cela entraîneront des dommages au fil du temps.</Stat_Thing_Plant_MaxGrowthTemperature_Desc>
+  <!-- EN: The minimum skill needed for a farmer to to sow this plant. -->
+  <Stat_Thing_Plant_MinGrowingSkillToSow_Desc>La compétence minimale requise pour qu'un agriculteur puisse semer cette plante.</Stat_Thing_Plant_MinGrowingSkillToSow_Desc>
+  <!-- EN: The kinds of food this creature is capable of eating.\n\nCan eat: {0} -->
+  <Stat_Race_Diet_Desc>Les types de nourriture que cette créature est capable de manger.\n\nPeut manger : {0}</Stat_Race_Diet_Desc>
+  <!-- EN: The type of leather this creature will yield when butchered. -->
+  <Stat_Race_LeatherType_Desc>Le type de cuir que cette créature rapportera lorsqu'elle sera dépecée.</Stat_Race_LeatherType_Desc>
+  <!-- EN: The chance that this creature will attack when a tamer tries to tame it and fails. -->
+  <Stat_Race_Animal_TameFailedRevengeChance_Desc>La chance que cette créature attaque quand un dompteur essaie de l'apprivoiser et échoue.</Stat_Race_Animal_TameFailedRevengeChance_Desc>
+  <!-- EN: This creature's general mental aptitude for training. This is a combination of intelligence and attentiveness. It determines which kinds of tasks this creature can be trained to perform. -->
+  <Stat_Race_Trainability_Desc>Aptitude mentale générale de cette créature pour l'entraînement. C'est une combinaison d'intelligence et d'attention. Elle détermine quels types de tâches cette créature peut être entraînée à effectuer.</Stat_Race_Trainability_Desc>
+  <!-- EN: The average life expectancy of this creature. -->
+  <Stat_Race_LifeExpectancy_Desc>L'espérance de vie moyenne de cette créature.</Stat_Race_LifeExpectancy_Desc>
+  <!-- EN: The recreational value of ingesting this. Higher numbers will fulfill the recreation need more. -->
+  <Stat_Thing_Ingestible_Joy_Desc>La valeur récréative de la comsommation de ceci. Une valeur plus élevée répondra davantage aux besoins de loisirs.</Stat_Thing_Ingestible_Joy_Desc>
+  <!-- EN: The size of this creature's body, compared to an average adult human. -->
+  <Stat_Race_BodySize_Desc>La taille du corps de cette créature, par rapport à un humain adulte moyen.</Stat_Race_BodySize_Desc>
+  <!-- EN: How much time passes between when a melee attack with this weapon begins and when it hits. -->
+  <Stat_Thing_Weapon_MeleeWarmupTime_Desc>Le temps qui s'écoule entre le début d'une attaque de mêlée avec cette arme et le moment où elle frappe.</Stat_Thing_Weapon_MeleeWarmupTime_Desc>
+  <!-- EN: The amount of shots this weapon fires in each burst. -->
+  <Stat_Thing_Weapon_BurstShotCount_Desc>Le nombre de coups tirés par cette arme à chaque rafale.</Stat_Thing_Weapon_BurstShotCount_Desc>
+  <!-- EN: The fire rate of this weapon during each burst. -->
+  <Stat_Thing_Weapon_BurstShotFireRate_Desc>La cadence de tir de cette arme lors de chaque rafale.</Stat_Thing_Weapon_BurstShotFireRate_Desc>
+  <!-- EN: The maximum range of this weapon. -->
+  <Stat_Thing_Weapon_Range_Desc>La portée maximale de cette arme.</Stat_Thing_Weapon_Range_Desc>
+  <!-- EN: The radius of random spread on shots fired by this weapon.\n\nHigh values make projectiles disperse randomly around the target. -->
+  <Stat_Thing_Weapon_MissRadius_Desc>Le cône de dispersion des tirs de cette arme.\n\nDes valeurs élevées font que les projectiles se dispersent de façon aléatoire autour de la cible.</Stat_Thing_Weapon_MissRadius_Desc>
+  <!-- EN: The chance that a shot will directly hit its target if not intercepted, dodged or stopped. -->
+  <Stat_Thing_Weapon_DirectHitChance_Desc>La chance qu'un tir atteigne directement sa cible s'il n'est pas intercepté, esquivé ou arrêté.</Stat_Thing_Weapon_DirectHitChance_Desc>
+  <!-- EN: This body part's effect on the mood of the owner. -->
+  <Stat_Thing_MoodChange_Desc>L'effet de cette partie du corps sur l'humeur du propriétaire.</Stat_Thing_MoodChange_Desc>
+  <!-- EN: The main skill used while performing this recipe.\n\nIt determines the quality of the result, and is learned while performing this recipe. -->
+  <Stat_Recipe_Skill_Desc>Le niveau de compétence principale utilisé lors de l'exécution de cette recette.\n\nIl détermine la qualité du résultat et s'apprend lors de l'exécution de cette recette.</Stat_Recipe_Skill_Desc>
+  <!-- EN: The ingredients required to perform this recipe. -->
+  <Stat_Recipe_Ingredients_Desc>Les ingrédients nécessaires pour réaliser cette recette.</Stat_Recipe_Ingredients_Desc>
+  <!-- EN: The skills required to perform this recipe. -->
+  <Stat_Recipe_SkillRequirements_Desc>Les compétences requises pour effectuer cette recette.</Stat_Recipe_SkillRequirements_Desc>
+  <!-- EN: The products produced by this recipe. -->
+  <Stat_Recipe_Products_Desc>Les produits issus de cette recette.</Stat_Recipe_Products_Desc>
+  <!-- EN: Which character stat governs the workspeed of this recipe.\n\nThe higher the stat of the worker is, the faster work will be done. -->
+  <Stat_Recipe_WorkSpeedStat_Desc>La statistique qui régit la vitesse de réalisation de cette recette.\n\nPlus la statistique du travailleur est élevée, plus le travail sera rapide.</Stat_Recipe_WorkSpeedStat_Desc>
+  <!-- EN: Which stat governs the quality or amount of output.\n\nThe higher the stat of the worker is, the higher the quality or yield will be. -->
+  <Stat_Recipe_EfficiencyStat_Desc>La statistique qui régit la qualité ou la quantité de production.\n\nPlus la statistique du travailleur est élevée, plus la qualité ou le rendement sera élevé.</Stat_Recipe_EfficiencyStat_Desc>
+  <!-- EN: A multiplier on the chance this operation will be a success. More difficult operations have lower multipliers.\n\nThe actual chance of success of a surgery is also affected by the doctor, facilities, and medicine used. -->
+  <Stat_Thing_Surgery_SuccessChanceFactor_Desc>Un multiplicateur sur les chances de succès de cette opération. Les opérations plus difficiles ont des multiplicateurs inférieurs.\n\nLes chances réelles de succès d'une intervention chirurgicale sont également affectées par le médecin, les installations et les médicaments utilisés.</Stat_Thing_Surgery_SuccessChanceFactor_Desc>
+  <!-- EN: Can't fail -->
+  <Stat_Thing_Surgery_SuccessChanceFactor_CantFail>Ne peut pas échouer</Stat_Thing_Surgery_SuccessChanceFactor_CantFail>
+  <!-- EN: Performing this operation is safe for the patient. -->
+  <Stat_Thing_Surgery_SuccessChanceFactor_CantFail_Desc>L'exécution de cette opération est sans danger pour le patient.</Stat_Thing_Surgery_SuccessChanceFactor_CantFail_Desc>
+  <!-- EN: The chance the patient will die upon failure of this surgery. -->
+  <Stat_Thing_Surgery_DeathOnFailChance_Desc>La chance que le patient meure en cas d'échec de cette opération.</Stat_Thing_Surgery_DeathOnFailChance_Desc>
+  <!-- EN: Total bleed factor -->
+  <Stat_Hediff_TotalBleedFactor_Name>Facteur de saignement total</Stat_Hediff_TotalBleedFactor_Name>
+  <!-- EN: A multiplier applied to the overall rate of blood loss. -->
+  <Stat_Hediff_TotalBleedFactor_Desc>Un multiplicateur appliqué au taux global de perte de sang.</Stat_Hediff_TotalBleedFactor_Desc>
+  <!-- EN: Natural healing factor -->
+  <Stat_Hediff_NaturalHealingFactor_Name>Facteur de guérison naturel</Stat_Hediff_NaturalHealingFactor_Name>
+  <!-- EN: A multiplier applied to the overall rate of natural wound healing. -->
+  <Stat_Hediff_NaturalHealingFactor_Desc>Un multiplicateur appliqué au taux global de cicatrisation naturelle des plaies.</Stat_Hediff_NaturalHealingFactor_Desc>
+  <!-- EN: Food poisoning chance factor -->
+  <Stat_Hediff_FoodPoisoningChanceFactor_Name>Facteur de risque d'intoxication alimentaire</Stat_Hediff_FoodPoisoningChanceFactor_Name>
+  <!-- EN: A multiplier applied to the chance of getting food poisoning. -->
+  <Stat_Hediff_FoodPoisoningChanceFactor_Desc>Un multiplicateur appliqué à la chance d'avoir une intoxication alimentaire.</Stat_Hediff_FoodPoisoningChanceFactor_Desc>
+  <!-- EN: The rate at which this condition causes blood loss. -->
+  <Stat_Hediff_BleedingRate_Desc>La vitesse à laquelle cet état provoque le saignement.</Stat_Hediff_BleedingRate_Desc>
+  <!-- EN: The amount of pain caused by this condition. -->
+  <Stat_Hediff_Pain_Desc>La quantité de douleur causée par cet état.</Stat_Hediff_Pain_Desc>
+  <!-- EN: The offset in efficiency applied to body parts affected by this. -->
+  <Stat_Hediff_PartEfficiency_Desc>Le décalage d'efficacité appliqué aux parties du corps concernées.</Stat_Hediff_PartEfficiency_Desc>
+  <!-- EN: The mental abilities this affects. -->
+  <Stat_Hediff_Affects_Desc>Les capacités mentales que ceci affecte.</Stat_Hediff_Affects_Desc>
+  <!-- EN: Hunger rate offset -->
+  <Stat_Hediff_HungerRateOffset_Name>Compensation de la vitesse de faim</Stat_Hediff_HungerRateOffset_Name>
+  <!-- EN: A multiplier on the rate at which the food need depletes. -->
+  <Stat_Hediff_HungerRateFactor_Desc>Un multiplicateur sur la vitesse à laquelle le besoin alimentaire se réduit.</Stat_Hediff_HungerRateFactor_Desc>
+  <!-- EN: An offset on the rate at which the food need depletes. -->
+  <Stat_Hediff_HungerRateOffset_Desc>Une compensation de la vitesse à laquelle le besoin alimentaire se réduit.</Stat_Hediff_HungerRateOffset_Desc>
+  <!-- EN: Rest fall rate -->
+  <Stat_Hediff_TirednessOffset_Name>Vitesse de chute au repos</Stat_Hediff_TirednessOffset_Name>
+  <!-- EN: An offset applied to the rate at which the creatures rest need falls. -->
+  <Stat_Hediff_TirednessOffset_Desc>Une compensation appliquée à la vitesse à laquelle les créatures reposées baisse.</Stat_Hediff_TirednessOffset_Desc>
+  <!-- EN: A multiplier applied to the rate at which the creatures rest need falls. -->
+  <Stat_Hediff_TirednessFactor_Desc>Un multiplicateur appliqué à la vitesse à laquelle les créatures reposées baisse.</Stat_Hediff_TirednessFactor_Desc>
+  <!-- EN: Whether or not this will prevent infections. -->
+  <Stat_Hediff_PreventsInfection_Desc>Que cela prévienne ou non les infections.</Stat_Hediff_PreventsInfection_Desc>
+  <!-- EN: The things this terrain supports. -->
+  <Stat_Thing_Terrain_Supports_Desc>Les choses que ce terrain supporte.</Stat_Thing_Terrain_Supports_Desc>
+  <!-- EN: This can only be placed on terrain of these types. -->
+  <Stat_Thing_TerrainRequirement_Desc>Cet objet ne peut être placé que sur l'un de ces types de terrain.</Stat_Thing_TerrainRequirement_Desc>
+  <!-- EN: Considered -->
+  <Stat_Thing_Terrain_Fine_Name>Qualité</Stat_Thing_Terrain_Fine_Name>
+  <!-- EN: Fine -->
+  <Stat_Thing_Terrain_Fine_Value>Esthétique</Stat_Thing_Terrain_Fine_Value>
+  <!-- EN: This floor is considered fine and suitable for royalty. -->
+  <Stat_Thing_Terrain_Fine_Desc>Ce plancher est considéré comme correct et convenable pour la royauté.</Stat_Thing_Terrain_Fine_Desc>
+  <!-- EN: The amount of power this building will draw from the power grid. -->
+  <Stat_Thing_PowerConsumption_Desc>La quantité d'énergie que cet objet consommera du réseau électrique.</Stat_Thing_PowerConsumption_Desc>
+  <!-- EN: {CHARGENOUN_plural} remaining -->
+  <Stat_Thing_ReloadChargesRemaining_Name>{CHARGENOUN_plural} restants</Stat_Thing_ReloadChargesRemaining_Name>
+  <!-- EN: The number of {CHARGENOUN_plural} remaining on this object. If these run out, the special ability can no longer be used. -->
+  <Stat_Thing_ReloadChargesRemaining_Desc>Le nombre de {CHARGENOUN_plural} restant sur cet objet. Si ceux-ci sont épuisés, la capacité spéciale ne peut plus être utilisée.</Stat_Thing_ReloadChargesRemaining_Desc>
+  <!-- EN: {CHARGENOUN_plural} -->
+  <Stat_Thing_ReloadMaxCharges_Name>{CHARGENOUN_plural}</Stat_Thing_ReloadMaxCharges_Name>
+  <!-- EN: The maximum number of {CHARGENOUN_plural} this object has. -->
+  <Stat_Thing_ReloadMaxCharges_Desc>Le nombre maximum de {CHARGENOUN_plural} que cet objet possède.</Stat_Thing_ReloadMaxCharges_Desc>
+  <!-- EN: {CHARGENOUN} reload cost -->
+  <Stat_Thing_ReloadRefill_Name>Coût de rechargement en {CHARGENOUN}</Stat_Thing_ReloadRefill_Name>
+  <!-- EN: The amount of items required to fully reload this object.\n\nThis object can be reloaded before it is empty, but the cost is the same as if it was empty. -->
+  <Stat_Thing_ReloadRefill_Desc>La quantité d'éléments requis pour recharger complètement cet objet.\n\nCet objet peut être rechargé avant d'être vide, mais le coût est le même que s'il était vide.</Stat_Thing_ReloadRefill_Desc>
+  <!-- EN: Reload cost per {CHARGENOUN} -->
+  <Stat_Thing_ReloadPerCharge_Name>Coût de rechargement par {CHARGENOUN}</Stat_Thing_ReloadPerCharge_Name>
+  <!-- EN: The amount of items required to reload one {CHARGENOUN}. Multiple {CHARGENOUN_plural} can be reloaded at once. -->
+  <Stat_Thing_ReloadPerCharge_Desc>Le nombre d'éléments requis pour une recharge de {CHARGENOUN}. Plusieurs {CHARGENOUN_plural} peuvent être rechargés à la fois.</Stat_Thing_ReloadPerCharge_Desc>
+  <!-- EN: Vanish on exhaust -->
+  <Stat_Thing_ReloadDestroyOnEmpty_Name>Disparition après épuisement</Stat_Thing_ReloadDestroyOnEmpty_Name>
+  <!-- EN: This item will vanish when its last {CHARGENOUN} is used. -->
+  <Stat_Thing_ReloadDestroyOnEmpty_Desc>Cet objet disparaîtra lorsque son dernier {CHARGENOUN} sera utilisé.</Stat_Thing_ReloadDestroyOnEmpty_Desc>
+  <!-- EN: The overall efficiency of this body part. -->
+  <Stat_Thing_BodyPartEfficiency_Desc>L'efficacité globale de cette partie du corps.</Stat_Thing_BodyPartEfficiency_Desc>
+  <!-- EN: Biocoding -->
+  <Stat_Thing_Biocoded_Name>Biocodage</Stat_Thing_Biocoded_Name>
+  <!-- EN: This item has been coded to only accept a particular individual's bio-signature. -->
+  <Stat_Thing_Biocoded_Desc>Cet objet a été codé pour n'accepter que la bio-signature d'un individu bien particulier.</Stat_Thing_Biocoded_Desc>
+
+  <!-- Drugs -->
+  <!-- EN: The active chemical in this.\n\nIn some cases, the same chemical is present in multiple different drugs. These different drugs will satisfy the same addiction in different ways. -->
+  <Stat_Thing_Drug_Chemical_Desc>La molécule chimique active dans ce produit.\n\nDans certains cas, la même molécule chimique est présente dans plusieures drogues différentes. Ces différentes drogues satisferont la même besoin mais de manières différentes.</Stat_Thing_Drug_Chemical_Desc>
+  <!-- EN: The intensity of high gained per dose of this drug. -->
+  <Stat_Thing_Drug_HighGainPerDose_Desc>Intensité de l'effet par dose de cette drogue.</Stat_Thing_Drug_HighGainPerDose_Desc>
+  <!-- EN: How much this drug's high will decay each day. -->
+  <Stat_Thing_Drug_HighFallPerDay_Desc>Taux de diminution de l'effet par jour pour cette drogue.</Stat_Thing_Drug_HighFallPerDay_Desc>
+  <!-- EN: How long this drug's high will last per dose.\n\nThis is calculated from the high gained per dose and the high fall rate. -->
+  <Stat_Thing_Drug_HighDurationPerDose_Desc>Temps de rémanence de cette drogue par dose.\n\nCelui-ci est calculé à partir de l'intensité de l'effet par dose et de son taux de diminution.</Stat_Thing_Drug_HighDurationPerDose_Desc>
+  <!-- EN: How much a user's tolerance to the chemical will increase for each dose of this drug.\n\nThis can be different for different forms of the same chemical. -->
+  <Stat_Thing_Drug_ToleranceGainPerDose_Desc>La sensibilité d'un utilisateur au produit chimique augmentera pour chaque dose de cette drogue.\n\nCelle-ci peut être différente pour les différentes formes du même produit chimique.</Stat_Thing_Drug_ToleranceGainPerDose_Desc>
+  <!-- EN: How much a user's tolerance to the chemical will fall per day. -->
+  <Stat_Thing_Drug_ToleranceFallPerDay_Desc>Degré de réduction journalière de la sensibilité d'un utilisateur au produit chimique.</Stat_Thing_Drug_ToleranceFallPerDay_Desc>
+  <!-- EN: The minimum tolerance required to become newly addicted to this drug.\n\nIf a user is below this tolerance level, they can't become newly addicted from taking a dose. -->
+  <Stat_Thing_Drug_MinToleranceForAddiction_Desc>La sensibilité minimale requise pour devenir accro à cette drogue.\n\nSi un utilisateur est en dessous de ce niveau de sensibilité, il ne peut pas devenir accro lors de la prise d'une dose.</Stat_Thing_Drug_MinToleranceForAddiction_Desc>
+  <!-- EN: A user will never become addicted if they never take the drug more often than this.\n\nThis is calculated from the drug's minimum tolerance to addict, the tolerance gain per dose, and the rate of tolerance decay.\n\nNote that some drugs don't have a safe interval. Such drugs can addict on any dose, even the first one. -->
+  <Stat_Thing_Drug_SafeDoseInterval_Desc>Un utilisateur ne deviendra jamais dépendant s'il ne prend jamais la drogue plus souvent que cela.\n\nCeci est calculé à partir de la sensibilité minimale d'une drogue pour un toxicomane, du gain de sensibilité par dose et du taux de diminution de l'effet.\n\nNotez que certaines drogues n'ont pas de seuil sûr. Ces drogues peuvent entraîner une dépendance à chaque prise, même la première.</Stat_Thing_Drug_SafeDoseInterval_Desc>
+  <!-- EN: The chance of a random overdose when taking this drug. Random overdoses can happen on any dose, whether it's a new user's first try or an experienced addict's hundredth hit. -->
+  <Stat_Thing_Drug_RandomODChance_Desc>Le risque d'un surdosage aléatoire lors de la prise de cette drogue. Des overdoses aléatoires peuvent survenir à n'importe quelle prise, que ce soit lors du premier essai d'un nouvel utilisateur ou lors de la énième prise d'un toxicomane expérimenté.</Stat_Thing_Drug_RandomODChance_Desc>
+  <!-- EN: The chance of addiction per dose of this drug.\n\nIf the drug has a minimum tolerance to addict, the tolerance must be above that level for this to apply. If there is no minimum tolerance, any dose can cause an addiction. -->
+  <Stat_Thing_Drug_Addictiveness_Desc>Risque de dépendance par dose de cette drogue.\n\nSi la drogue présente une sensibilité minimale pour les toxicomanes, la sensibilité doit être supérieure à ce niveau pour que celle-ci s’applique. S'il n'y a pas de sensibilité minimale, toute dose prise peut provoquer une dépendance.</Stat_Thing_Drug_Addictiveness_Desc>
+  <!-- EN: New addictions caused by this drug begin at this severity level.\n\nTaking more of the drug will increase addiction severity, while time will reduce it. -->
+  <Stat_Thing_Drug_AddictionSeverityInitial_Desc>Toutes nouvelles dépendances causées par cette drogue commencent à ce niveau de gravité.\n\nLa prise de plus de drogue augmentera la gravité de la dépendance, tandis que le temps la réduira.</Stat_Thing_Drug_AddictionSeverityInitial_Desc>
+  <!-- EN: How long it takes to recover from an initial addiction to this drug.\n\nThis is be calculated from the new addiction severity divided by the rate of addiction recovery. An addiction which has been fed will take longer. -->
+  <Stat_Thing_Drug_AddictionRecoveryTime_Desc>Délai nécessaire pour se sevrer d'une dépendance initiale à cette drogue.\n\nCelui-ci est calculé à partir de la gravité de la nouvelle dépendance divisée par le taux de diminution de la dépendance. Une dépendance qui a été entretenue nécessitera plus de temps.</Stat_Thing_Drug_AddictionRecoveryTime_Desc>
+  <!-- EN: How much severity is added to an existing addiction for each dose of this drug.\n\nAddiction severity cannot go above 100%. -->
+  <Stat_Thing_Drug_AddictionSeverityPerDose_Desc>Niveau de gravité ajouté à une dépendance existante pour chaque prise de cette drogue.\n\nLa gravité de la dépendance ne peut pas dépasser 100%.</Stat_Thing_Drug_AddictionSeverityPerDose_Desc>
+  <!-- EN: How often an addict needs to take a dose of this drug to feed the addiction and prevent withdrawal.\n\nThis is calculated from the addiction need fall rate and the need fill per dose. -->
+  <Stat_Thing_Drug_AddictionNeedDoseInterval_Desc>Fréquence à laquelle un toxicomane doit prendre une dose de cette drogue pour satisfaire son besoin et prévenir le sevrage.\n\nCelle-ci est calculée à partir du taux de sevrage et de la dépendance satisfaite par dose.</Stat_Thing_Drug_AddictionNeedDoseInterval_Desc>
+  <!-- EN: How much each dose of this drug fills an addict's need for the chemical. -->
+  <Stat_Thing_Drug_AddictionNeedOffset_Desc>Niveau de satisfaction de la toxicomanie pour le produit chimique apporté par cette drogue.</Stat_Thing_Drug_AddictionNeedOffset_Desc>
+  <!-- EN: How quickly an addict's need for the chemical will fall. -->
+  <Stat_Thing_Drug_AddictionNeedFallRate_Desc>Taux de sevrage, la rapidité à laquelle le besoin en produit chimique du toxicomane diminue.</Stat_Thing_Drug_AddictionNeedFallRate_Desc>
+  <!-- EN: The market value of drugs that must be consumed per day to support an addiction to this drug without going into withdrawal.\n\nThis value is calculated from the addict's chemical need per dose, the need fall rate, and the market value of this drug.\n\nNote that there may be other ways to get the same chemical with different costs. -->
+  <Stat_Thing_Drug_AddictionCost_Desc>Valeur marchande des drogues qui doivent être consommées par jour pour satisfaire une dépendance à cette drogue sans être sevré.\n\nCette valeur est calculée à partir de la dépendance chimique par dose du toxicomane, du taux de sevrage et de la valeur marchande de cette drogue.\n\nNotez qu'il peut y avoir d'autres façons d'obtenir le même produit chimique à des coûts différents.</Stat_Thing_Drug_AddictionCost_Desc>
+
+</LanguageData>

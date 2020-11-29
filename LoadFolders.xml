@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<loadFolders>
+  <v1.0>
+    <li>/</li>
+    <!--
+    <li IfModActive="ludeon.rimworld">Core</li>
+    <li IfModActive="fluffy.modmanager">ModManager</li>
+    <li IfModActive="EdB.PrepareCarefully">EdBPrepareCarefully</li>
+    <li IfModActive="TalliDown.Numbers">Numbers</li>
+    <li IfModActive="Mehni.Numbers">Numbers</li>
+    <li IfModActive="telardo.NumbersTraitAddOn">NumbersTraitAddOn</li>
+    -->
+  </v1.0>
+  <v1.1>
+    <li>/</li>
+    <!--
+    <li IfModActive="ludeon.rimworld">Core</li>
+    <li IfModActive="ludeon.rimworld.royalty">Royalty</li>
+    <li IfModActive="fluffy.modmanager">ModManager</li>
+    <li IfModActive="EdB.PrepareCarefully">EdBPrepareCarefully</li>
+    <li IfModActive="TalliDown.Numbers">Numbers</li>
+    <li IfModActive="Mehni.Numbers">Numbers</li>
+    <li IfModActive="telardo.NumbersTraitAddOn">NumbersTraitAddOn</li>
+    -->
+  </v1.1>
+  <v1.2>
+    <li>/</li>
+    <!--
+    <li IfModActive="ludeon.rimworld">Core</li>
+    <li IfModActive="ludeon.rimworld.royalty">Royalty</li>
+    <li IfModActive="fluffy.modmanager">ModManager</li>
+    <li IfModActive="EdB.PrepareCarefully">EdBPrepareCarefully</li>
+    <li IfModActive="TalliDown.Numbers">Numbers</li>
+    <li IfModActive="Mehni.Numbers">Numbers</li>
+    <li IfModActive="telardo.NumbersTraitAddOn">NumbersTraitAddOn</li>
+    -->
+  </v1.2>
+</loadFolders>
+
