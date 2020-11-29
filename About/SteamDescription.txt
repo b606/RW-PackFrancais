@@ -1,6 +1,6 @@
 [h1]Pack de traduction française[/h1]
 [img]https://steamuserimages-a.akamaihd.net/ugc/1666857701582101267/5AD43A56D3DF57812AD1930F926BC8CE30F0287A/[/img]
-Toutes les traductions françaises des mods de RimWorld disponible en un seul endroit ! Ce pack contient toutes mes dernières traductions, y compris :
+Toutes les traductions françaises des mods de RimWorld disponible [b]en un seul endroit[/b] ! Ce pack contient toutes mes dernières traductions, y compris :
 
 [list]
 [*]Core et Royalty [Français], envoyé sur https://github.com/Ludeon/RimWorld-fr mais pas encore distribué officiellement.
